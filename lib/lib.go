@@ -1,3 +1,3 @@
 package lib
 
-var Greetings = "안녕하세요!"
+var Greetings = "안녕하세요! ☺"
